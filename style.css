@@ -1,0 +1,26 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    font-size: 20px;
+}
+
+ul li {
+    color: green;
+}
+
+ol li {
+    color: rgb(148, 11, 227);
+}
